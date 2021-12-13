@@ -1,4 +1,4 @@
-####    Practical No.: 7    ####
+####    Practical No.: 8    ####
 
 # 8) Write a Program for found a subset with given sum
 # A recursive solution for subset sum 
